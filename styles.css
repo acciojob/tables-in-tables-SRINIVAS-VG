@@ -5,11 +5,28 @@ table{
 	height:100%;
 }
 td,th{
-	border: 3px double black;
-	padding:8px;
+	border: 1px solid black;
+	padding:0px;
 	text-align:center;
 }
 #bg{
 	background-color:black;
 	color:white;
+}
 
+#column1{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+#column2{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+#column3{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#column4{
+	padding-top:10px;
+	padding-bottom:10px;
+}
